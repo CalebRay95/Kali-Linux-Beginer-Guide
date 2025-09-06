@@ -927,5 +927,5 @@ This guide is current as of September 2025. For the most up-to-date information:
 
 ---
 📅 **Last Updated**: September 2025  
-✍️ **Author**: [Your GitHub Username]  
+✍️ **Author**: Manash Rajan  
 📄 **License**: MIT
