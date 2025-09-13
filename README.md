@@ -928,5 +928,5 @@ This guide is current as of September 2025. For the most up-to-date information:
 
 ---
 📅 **Last Updated**: September 2025  
-✍️ **Author**: Manash Rajan  
+✍️ **Author**: Manash Rajan  and Caleb ray
 📄 **License**: MIT
